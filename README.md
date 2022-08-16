@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idrissjuanito
-- 👀 I’m interested in ...Learning webdev
-- 🌱 I’m currently learning ...PHP
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Web Development and cloud Computing
+- 🌱 I’m currently learning ... NodeJs
+- 💞️ I’m looking to collaborate on ... React and nodejs projects
 - 📫 How to reach me ...
 
 <!---
