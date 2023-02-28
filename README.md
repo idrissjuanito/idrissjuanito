@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @idrissjuanito
+- 👋 Hi, I’m TCHOFFO IDRISS a fullstack web dev who codes in JS/TS
 - 👀 I’m interested in ... Web Development and cloud Computing
 - 🌱 I’m currently learning ... NodeJs
-- 💞️ I’m looking to collaborate on ... React and nodejs projects
+- 💞️ I’m looking to collaborate on ... React and Nextjs and nodejs projects
 - 📫 How to reach me ...
 
 <!---
