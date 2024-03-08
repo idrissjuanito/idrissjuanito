@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TCHOFFO IDRISS a fullstack web dev who codes in JS/TS
+- 👋 Hi, I’m TCHOFFO IDRISS a fullstack web developer
 - 👀 I’m interested in ... Web Development and cloud Computing
 - 🌱 I’m currently learning ... NodeJs
 - 💞️ I’m looking to collaborate on ... React and Nextjs and nodejs projects
